@@ -1,0 +1,10 @@
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.exe.config
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.exe
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.pdb
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.Properties.Resources.resources
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.SnakeGame.resources
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csproj.GenerateResource.cache
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.exe
+C:\Users\davom\source\repos\Games\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.pdb
